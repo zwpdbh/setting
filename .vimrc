@@ -31,6 +31,7 @@ let g:nerdtree_tabs_open_on_console_startup=1
 
 
 set nu
+colorscheme codeschool
 syntax on
 set smartindent
 set autoindent
