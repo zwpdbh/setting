@@ -32,7 +32,8 @@ let g:nerdtree_tabs_open_on_console_startup=1
 
 set nu
 syntax on
-colorscheme codeschool
+set background=light
+colorscheme solarized 
 set smartindent
 set autoindent
 set tabstop=4
